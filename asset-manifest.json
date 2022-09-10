@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.c8f6f57d.css",
-    "main.js": "/static/js/main.baa4f932.js",
-    "static/js/787.39419cc6.chunk.js": "/static/js/787.39419cc6.chunk.js",
-    "static/media/tarot-witcher.jpeg": "/static/media/tarot-witcher.c11f0348342f7ec79c23.jpeg",
-    "index.html": "/index.html",
-    "main.c8f6f57d.css.map": "/static/css/main.c8f6f57d.css.map",
-    "main.baa4f932.js.map": "/static/js/main.baa4f932.js.map",
-    "787.39419cc6.chunk.js.map": "/static/js/787.39419cc6.chunk.js.map"
+    "main.css": "/tarot-cards/static/css/main.c6f99935.css",
+    "main.js": "/tarot-cards/static/js/main.33e0925f.js",
+    "static/js/787.39419cc6.chunk.js": "/tarot-cards/static/js/787.39419cc6.chunk.js",
+    "static/media/tarot-witcher.jpeg": "/tarot-cards/static/media/tarot-witcher.c11f0348342f7ec79c23.jpeg",
+    "index.html": "/tarot-cards/index.html",
+    "main.c6f99935.css.map": "/tarot-cards/static/css/main.c6f99935.css.map",
+    "main.33e0925f.js.map": "/tarot-cards/static/js/main.33e0925f.js.map",
+    "787.39419cc6.chunk.js.map": "/tarot-cards/static/js/787.39419cc6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8f6f57d.css",
-    "static/js/main.baa4f932.js"
+    "static/css/main.c6f99935.css",
+    "static/js/main.33e0925f.js"
   ]
 }
